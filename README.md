@@ -1,7 +1,7 @@
 # sshkey - automatic remote login
 Create ssh key for remote login without entering password.
 
-## At Local 
+## At local 
 ### Step 1. ssh-key generation 
 ```
 $ ssh-keygen
@@ -30,7 +30,7 @@ The key's randomart image is:
 +----[SHA256]-----+
 ```
 
-## Remote server
+## At remote server
 
 ### Step 2. Cat and copy the public rsa key from local 
 ```
