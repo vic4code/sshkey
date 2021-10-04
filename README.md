@@ -1,4 +1,4 @@
-# sshkey-remote login
+# sshkey - automatic remote login
 Create ssh key for remote login without entering password.
 
 ## At Local 
