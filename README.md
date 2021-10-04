@@ -34,7 +34,7 @@ The key's randomart image is:
 
 ### Step 2. Cat and copy the public rsa key from local 
 ```
-$ cat ~/.ssh/ubuntu_id_rsa.pub 
+$ cat ~/.ssh/id_rsa.pub 
 
 >> ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDOZypQABxuCschD6jjRZFr1iPCqzrpo40Mzw6vXRfPlFwF9QJhLm3YYdtnpVekj9e1Y4kUduM924PAiLgfRw/6AJ1ueDR1BEDLeH8gAV1Cc90oPUvitYItPN8F1HrqiT37GZ3wKWKIFw70NL8Hs6BL61F+LgFmfXQDRyp7IIcyK9rmk24yqLSue/DiSbA0y85E4uvV7ekZD2NXeA9AnKHFe/cy614SQv2NNQCwi2ZRuP25du9xGVv0QvCwrZ4ANJky9V7xlO4dFFHqcNXUPQUm8EeRxySVCdTbenqiEQ3flLVBCCCxvnc7ApHlLNc/CZSpcft96xfGB3qOCrRvjb2/ xxxx@demo.com
 ```
