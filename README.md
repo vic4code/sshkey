@@ -4,7 +4,7 @@ Create ssh key for remote login without entering password.
 ## At local 
 ### Step 1. ssh-key generation 
 ```
-$ ssh-keygen
+$ ssh-keygen -t rsa -C "your_email@example.com" 
 
 Generating public/private rsa key pair.
 Enter file in which to save the key (/home/username/.ssh/id_rsa):
